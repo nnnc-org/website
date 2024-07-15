@@ -11,10 +11,11 @@
     ],
     "scripts": {
       "dev": [
-        "cd src && npm run dev"
+        "cd src && npm install && npm run dev"
       ],
       "build": [
         "cd src",
+        "npm install",
         "HUGO_ENV=production HUGO_ENVIRONMENT=production TZ=America/Chicago npm run build -- --baseURL 'https://www.nnnc.org/'"
       ],
       "upgrade-theme": [
