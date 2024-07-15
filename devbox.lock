@@ -1,0 +1,182 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "dart-sass@latest": {
+      "last_modified": "2024-07-07T16:08:25Z",
+      "resolved": "github:NixOS/nixpkgs/ab82a9612aa45284d4adf69ee81871a389669a9e#dart-sass",
+      "source": "devbox-search",
+      "version": "1.77.6",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/m7cwavg9p07a2nfg1zqfnvb4bc2jlxy5-dart-sass-1.77.6",
+              "default": true
+            },
+            {
+              "name": "pubcache",
+              "path": "/nix/store/b66cncf6m9m68z13jvj4smagqvcjbapn-dart-sass-1.77.6-pubcache"
+            }
+          ],
+          "store_path": "/nix/store/m7cwavg9p07a2nfg1zqfnvb4bc2jlxy5-dart-sass-1.77.6"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/wmkqazmxfiywga58z7mk7s0icl38pmxk-dart-sass-1.77.6",
+              "default": true
+            },
+            {
+              "name": "pubcache",
+              "path": "/nix/store/a2agzvv3pss7j2fqkm3a4y275c5nmg2r-dart-sass-1.77.6-pubcache"
+            }
+          ],
+          "store_path": "/nix/store/wmkqazmxfiywga58z7mk7s0icl38pmxk-dart-sass-1.77.6"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/4kzb5vg2hw7ywcl01pxnqlsck1677jzi-dart-sass-1.77.6",
+              "default": true
+            },
+            {
+              "name": "pubcache",
+              "path": "/nix/store/ma3sv7q8rfjdpw211arcn51jf6sdfn30-dart-sass-1.77.6-pubcache"
+            }
+          ],
+          "store_path": "/nix/store/4kzb5vg2hw7ywcl01pxnqlsck1677jzi-dart-sass-1.77.6"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/jrsdqbk48q0cvmr0sg4qvc4qjybv1r30-dart-sass-1.77.6",
+              "default": true
+            },
+            {
+              "name": "pubcache",
+              "path": "/nix/store/wpy2pdb5c6l01j87f58hhcfq5pma9kvp-dart-sass-1.77.6-pubcache"
+            }
+          ],
+          "store_path": "/nix/store/jrsdqbk48q0cvmr0sg4qvc4qjybv1r30-dart-sass-1.77.6"
+        }
+      }
+    },
+    "hugo@latest": {
+      "last_modified": "2024-07-07T16:08:25Z",
+      "resolved": "github:NixOS/nixpkgs/ab82a9612aa45284d4adf69ee81871a389669a9e#hugo",
+      "source": "devbox-search",
+      "version": "0.128.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ckw1q87ryx0d8gi2sxjh0phg5ggivzdv-hugo-0.128.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ckw1q87ryx0d8gi2sxjh0phg5ggivzdv-hugo-0.128.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/wn15c5n7xcabdnx8172051y9p7c85p4d-hugo-0.128.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/wn15c5n7xcabdnx8172051y9p7c85p4d-hugo-0.128.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7b7bc2i1950bx4jrcf2d8hmp0m9d72i5-hugo-0.128.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7b7bc2i1950bx4jrcf2d8hmp0m9d72i5-hugo-0.128.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/fbzl1phpcz0abznr86q2yd47mxnf5fwa-hugo-0.128.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/fbzl1phpcz0abznr86q2yd47mxnf5fwa-hugo-0.128.1"
+        }
+      }
+    },
+    "nodejs@latest": {
+      "last_modified": "2024-07-07T16:08:25Z",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/ab82a9612aa45284d4adf69ee81871a389669a9e#nodejs_22",
+      "source": "devbox-search",
+      "version": "22.3.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/xfiwgna8wavxj8wzfn5ihp9kxdvcrphq-nodejs-22.3.0",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/hn3z99jhkx7llshh1v0qmlfmnis144k1-nodejs-22.3.0-libv8"
+            }
+          ],
+          "store_path": "/nix/store/xfiwgna8wavxj8wzfn5ihp9kxdvcrphq-nodejs-22.3.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/q7cgrvb6clq0pdp5hlwmq2lldzkl3fmj-nodejs-22.3.0",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/5df5695winsxzf80q6z0m35zy3p60yw1-nodejs-22.3.0-libv8"
+            }
+          ],
+          "store_path": "/nix/store/q7cgrvb6clq0pdp5hlwmq2lldzkl3fmj-nodejs-22.3.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/3cqbw1xcmc0xml8s3ys7jviaxvqyjldy-nodejs-22.3.0",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/zk7izr97gl525arvyi4mfwxnhx5wl7hx-nodejs-22.3.0-libv8"
+            }
+          ],
+          "store_path": "/nix/store/3cqbw1xcmc0xml8s3ys7jviaxvqyjldy-nodejs-22.3.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/bmvx7ww7qfksjqsckmivkg3mqvjscfh8-nodejs-22.3.0",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/w28gijyq24mmk1676gpbxw2xrkysxx1i-nodejs-22.3.0-libv8"
+            }
+          ],
+          "store_path": "/nix/store/bmvx7ww7qfksjqsckmivkg3mqvjscfh8-nodejs-22.3.0"
+        }
+      }
+    }
+  }
+}

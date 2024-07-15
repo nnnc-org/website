@@ -1,0 +1,27 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.10.7/.schema/devbox.schema.json",
+  "packages": [
+    "nodejs@latest",
+    "hugo@latest",
+    "dart-sass@latest"
+  ],
+  "shell": {
+    "init_hook": [
+      "echo 'Welcome to devbox!' > /dev/null"
+    ],
+    "scripts": {
+      "dev": [
+        "cd src && npm run dev"
+      ],
+      "build": [
+        "cd src",
+        "HUGO_ENV=production HUGO_ENVIRONMENT=production TZ=America/Chicago npm run build -- --baseURL 'https://www.nnnc.org/'"
+      ],
+      "upgrade-theme": [
+        "echo -e 'MAKE SURE TO READ DOCS BEFORE UPGRADING!\n\n\thttps://getdoks.org/docs/start-here/upgrade-doks/\n\nAre you sure you want to continue?'",
+        "read -p 'Press Enter to continue...'",
+        "cd src && npm install @hyas/doks-core@latest @hyas/images@latest @hyas/seo@latest"
+      ]
+    }
+  }
+}

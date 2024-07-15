@@ -1,0 +1,18 @@
+// Put your custom SCSS code here
+img[alt$=">"] {
+    float: right;
+    padding-left: 30px;
+}
+img[alt$="<"] {
+    float: left;
+    padding-right: 30px;
+}
+
+
+img[alt$="><"] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    float: none!important;
+  }
