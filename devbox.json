@@ -16,7 +16,7 @@
       "build": [
         "cd src",
         "npm install",
-        "HUGO_ENV=production HUGO_ENVIRONMENT=production TZ=America/Chicago npm run build -- --baseURL 'https://wwww.nnnc.org/'"
+        "HUGO_ENV=production HUGO_ENVIRONMENT=production TZ=America/Chicago npm run build -- --baseURL 'https://www.nnnc.org/'"
       ],
       "upgrade-theme": [
         "echo -e 'MAKE SURE TO READ DOCS BEFORE UPGRADING!\n\n\thttps://getdoks.org/docs/start-here/upgrade-doks/\n\nAre you sure you want to continue?'",

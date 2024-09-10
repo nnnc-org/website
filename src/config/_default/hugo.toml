@@ -1,5 +1,5 @@
 title = "NNNC"
-baseurl = "https://wwww.nnnc.org/"
+baseurl = "https://www.nnnc.org/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
