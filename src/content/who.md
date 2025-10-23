@@ -18,13 +18,13 @@ seo:
 
 This regional partnership began in the fall of 2000 with the purpose of improving Internet bandwidth to member schools while containing costs. The NNNC is a consortium of the 5 Educational Service Units (ESUs) in northeast Nebraska - 1, 2, 7, 8 and 17. The NNNC now provides Internet access, network services, and technology support to its member ESUs and districts.
 
-The NNNC currently has one full time employee, the Technology Analyst. However, every member ESU contributes to the success of the NNNC via the collaborative efforts from each member.
+The NNNC currently has one full time employee, the Senior Systems Engineer. However, every member ESU contributes to the success of the NNNC via the collaborative efforts from each member.
 
-### Technology Analyst - Cody Ernesti
+### Senior Systems Engineer - Cody Ernesti
 
 ![staffphoto alt <](images/CodyCrop.jpg "Cody Ernesti")
 
-The Technology Analyst position was created in 2015 to maintain NNNC infrastructure and help with statewide project implementation within the NNNC. Cody Ernesti is the current Technology Analyst for the NNNC as of July of 2024. Before this, he spent the past 9 years of his career with ESU #2 in multiple technology roles, ultimately leading to the Director of Systems & Network Operations. Cody has a passion for technology and enjoys working with schools to help them achieve their technology goals.
+The Senior Systems Engineer position was created in 2015 to maintain NNNC infrastructure and help with statewide project implementation within the NNNC. Cody Ernesti is the current Senior Systems Engineer for the NNNC as of July of 2024. Before this, he spent the past 9 years of his career with ESU #2 in multiple technology roles, ultimately leading to the Director of Systems & Network Operations. Cody has a passion for technology and enjoys working with schools to help them achieve their technology goals.
 
 Cody has extensive experience in secure network architecture & design, server administration, and software development - with a particular interest in open-source software solutions. His studies include a Bachelor of Science in Cybersecurity from the University of Nebraska at Omaha, in addition to multiple industry certifications.
 
