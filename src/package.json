@@ -21,7 +21,12 @@
   },
   "devDependencies": {
     "prettier": "^3.2.5",
-    "vite": "^5.2.10"
+    "vite": "^6.4.4"
+  },
+  "overrides": {
+    "esbuild": "^0.25.0",
+    "postcss-selector-parser": "^7.1.6",
+    "chokidar": "^4.0.3"
   },
   "engines": {
     "node": ">=20.11.0"
